@@ -1,5 +1,7 @@
 # GA3 Q4: Daily DevSync Commit Automation
 
+![Daily DevSync Commit](https://github.com/23f2001831/ga3_q4/actions/workflows/daily-commit.yml/badge.svg)
+
 This repository contains a scheduled GitHub Action that runs daily and commits to the repository automatically.
 
 ## Workflow Details
